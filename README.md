@@ -1,3 +1,0 @@
-# CityGuide
-
-MPIP project
